@@ -1,0 +1,22 @@
+.w-15{
+    width: 15%;
+}
+
+.w-85{
+    width: 85%;
+}
+
+.h-90{
+    height: 92.6vh;
+}
+
+
+
+@media screen and (max-width:992px) {
+    .w-85{
+        width: 100%;
+    }
+}
+
+
+
